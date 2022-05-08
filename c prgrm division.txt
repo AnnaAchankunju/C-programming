@@ -1,0 +1,12 @@
+   int main()
+{
+    int number1,number2,divide;
+    printf("Enter 2 numbers");
+    scanf("%d%d",&number1,&number2);
+    divide=number1/number2;
+    printf("Result is %d",divide);
+    
+
+    return 0;
+}
+

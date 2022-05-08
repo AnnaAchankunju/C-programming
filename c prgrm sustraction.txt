@@ -1,0 +1,10 @@
+
+
+       int main()
+{
+    int number1,number2, difference;
+    printf("Enter 2 numbers");
+    scanf("%d%d",&number1,&number2);
+    difference=number1-number2;
+    printf("Result is %d",difference);
+    

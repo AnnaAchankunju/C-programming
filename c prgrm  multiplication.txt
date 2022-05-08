@@ -1,0 +1,11 @@
+        int main()
+{
+    int number1,number2,number3,multiply;
+    printf("Enter 3 numbers");
+    scanf("%d%d%d",&number1,&number2,&number3);
+    multiply=number1*number2*number3;
+    printf("Result is %d",multiply);
+    
+
+    return 0;
+}
